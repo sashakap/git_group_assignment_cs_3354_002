@@ -1,1 +1,7 @@
-# git_group_assignment_cs_3354_002
+# Git Group Assignment, CS 3354.002
+## Members: ##
+* Sasha Kaplan 
+* Maviya Yaseen
+* Doan Tran
+* Justin Nguyen
+* Zain Jaffrey
