@@ -6,5 +6,5 @@
 */
 interface IDedObject {
 	public int getID();                 		//Returns the ID of the object
-	public void printID();         				//Prints the details of the ID
+	public void printID();          				//Prints the details of the ID
 }
