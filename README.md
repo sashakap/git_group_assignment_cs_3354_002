@@ -2,6 +2,6 @@
 ## Members: ##
 * Sasha Kaplan 
 * Maviya Yaseen
-* Doan Tran
+* Doan Truong
 * Justin Nguyen
 * Zain Jaffrey
